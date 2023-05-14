@@ -16,7 +16,7 @@ const introdata = {
 
 const dataabout = {
     title: "About my self",
-    aboutme: "As a self-motivated and curious third-year university student pursuing a B.S. in Computer Science, I am highly organized and detail-oriented with strong analytical problem-solving skills. My ability to learn quickly and work hard drives me to bring practical and creative solutions to every team and project I am a part of.",
+    aboutme: "I am a passionate and driven Computer Science student at the University of St. Thomas, pursuing a bachelor's degree in this field. I have excellent communication and adaptability skills, which enable me to work effectively with diverse teams and clients. I am also highly organized, detail-oriented, and an analytical problem solver, always eager to learn new technologies and apply them to real-world challenges. As a leader, a team player, and a reliable professional, I strive to deliver high-quality work and exceed expectations.",
 };
 
 const skills = [{
@@ -55,11 +55,15 @@ const skills = [{
 
 const services = [{
         title: "Digital Assistant",
-        description: "Developing a sophisticated digital assistant program that will analyze microphone input, transform it into a structured format for evaluation, and execute the desired task with precision.",
+        description: "Developed a voice-based assistant program that uses speech recognition and text to speech modules to interact with the user. Using various libraries and APIs to perform different task based on the users command, such as playing music, and retrieving information from the internet. Responds to the user using the pyttsx3 engine.",
+    },
+    {
+        title: "Landing Page",
+        description: "Developed a website built using JavaScript, CSS, and HTML as a landing base to showcase a brand. Including multiple components including a contact, about, gallery, and projects sections.( https://brandnameann.netlify.app/)",
     },
     {
         title: "Image Processor",
-        description: "image editing program developed using Java that allows for the manipulation of various aspects of an image to achieve desired results.",
+        description: "An image editing application that utilizes Java's advanced graphical user interface capabilities. It provides a wide range of image processing functionalities, including arithmetic operations, bitwise operations, and filtering. The program enables the user to open and manipulate images in real-time, allowing for interactive experimentation and exploration of different image processing techniques.",
     },
 
 ];
